@@ -1,0 +1,16 @@
+Collecting pandas
+  Downloading pandas-3.0.0-cp314-cp314-win_amd64.whl.metadata (19 kB)
+Collecting numpy>=2.3.3 (from pandas)
+  Downloading numpy-2.4.2-cp314-cp314-win_amd64.whl.metadata (6.6 kB)
+Collecting python-dateutil>=2.8.2 (from pandas)
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Requirement already satisfied: tzdata in c:\users\noavaran\appdata\local\programs\python\python314\lib\site-packages (from pandas) (2025.3)
+Requirement already satisfied: six>=1.5 in c:\users\noavaran\appdata\local\programs\python\python314\lib\site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)
+Downloading pandas-3.0.0-cp314-cp314-win_amd64.whl (9.9 MB)
+   ---------------------------------------- 9.9/9.9 MB 385.3 kB/s  0:00:25
+Downloading numpy-2.4.2-cp314-cp314-win_amd64.whl (12.4 MB)
+   ---------------------------------------- 12.4/12.4 MB 162.5 kB/s  0:01:12
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Installing collected packages: python-dateutil, numpy, pandas
+
+Successfully installed numpy-2.4.2 pandas-3.0.0 python-dateutil-2.9.0.post0

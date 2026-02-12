@@ -1,0 +1,7 @@
+requests>=2.31.0
+pandas>=2.1.0
+openpyxl>=3.1.2
+ttkbootstrap>=1.10.1
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+undetected-chromedriver>=3.5.5
